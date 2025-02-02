@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhomelab=self.webpackChunkhomelab||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"homelab","permalink":"/blog/tags/homelab","count":1}]}')}}]);

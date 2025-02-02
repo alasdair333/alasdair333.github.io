@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alasdair333.github.io/blog</id>
+    <title>echo-moo.co.uk Blog</title>
+    <updated>2025-02-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://alasdair333.github.io/blog"/>
+    <subtitle>echo-moo.co.uk Blog</subtitle>
+    <icon>https://alasdair333.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://alasdair333.github.io/blog/welcome</id>
+        <link href="https://alasdair333.github.io/blog/welcome"/>
+        <updated>2025-02-02T00:00:00.000Z</updated>
+        <author>
+            <name>Alasdair MacLeod</name>
+            <uri>https://github.com/alasdair333</uri>
+        </author>
+        <category label="homelab" term="homelab"/>
+    </entry>
+</feed>

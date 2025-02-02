@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>echo-moo.co.uk Blog</title>
+        <link>https://alasdair333.github.io/blog</link>
+        <description>echo-moo.co.uk Blog</description>
+        <lastBuildDate>Sun, 02 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://alasdair333.github.io/blog/welcome</link>
+            <guid>https://alasdair333.github.io/blog/welcome</guid>
+            <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
+            <category>homelab</category>
+        </item>
+    </channel>
+</rss>
